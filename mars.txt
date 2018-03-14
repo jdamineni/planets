@@ -2,3 +2,4 @@
 
 exec vim "$@"
 This ia test
+Editing the file to add second line
