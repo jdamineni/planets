@@ -1,0 +1,4 @@
+#!/bin/sh
+
+exec vim "$@"
+This ia test
